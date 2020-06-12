@@ -1,0 +1,37 @@
+.background {
+  background-color: #FFFDF0;
+}
+.garbo {
+  #CFDCE8
+  #FFFEAE
+  #F8AE45
+  #FBCCAA
+}
+
+.navbar {
+  background-color:  #fcd092  ;
+  font-family: 'IBM Plex'
+
+}
+
+.nav-item-style {
+
+}
+
+.left-col-style {
+  height: 800px;
+  border: 2px solid blue;
+}
+
+.right-col-style {
+  border: 1px solid red;
+}
+
+.homeicons {
+  height: 50px;
+  width: 50px;
+}
+
+#icondiv {
+  padding-top: 250px;
+}
